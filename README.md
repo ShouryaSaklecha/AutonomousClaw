@@ -5,5 +5,4 @@ This project was conducted to enhance my ability to take my engineering skills a
 3. Cleared 18/20 stress tests. Amongst the highest rated claws by design and programming by professors at University of British Columbia. 
 4. One of only 15/300 claws that passed more than 16 tests. 
 
-Attached is a short snippet of my code that I wrote to operate the claw autonomously. It is uniquely designed in such a way that it can actually increase the power supplied to the motors based on the weight of the object it is trying to lift.
-
+Attached is a short snippet of my code that I wrote to operate the claw autonomously. A unique feature to my design is that it automatically checks if an object is within the range, grabs the object, and automatically releases it after it is placed. 
